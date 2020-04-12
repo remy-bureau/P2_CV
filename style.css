@@ -41,7 +41,6 @@ body {
     padding-top: 8px;
 }
 .APM p {
-    
     text-align: justify;
     padding-right: 42px;
 }
@@ -50,7 +49,6 @@ body {
     color: #404040;
     font-size: 20px;
     padding: 2%;
-    
 }
 .loisirs {
     height: 100px;
@@ -82,7 +80,6 @@ header h2 span {
     color: #feca07;
     padding-top: 26px;
     padding-left: 10px;
-    
     font-size: 1.5em;
 }
 section h2 {
@@ -144,7 +141,6 @@ article h4, p {
         grid-template-columns:  none;
         width: auto;
         overflow: auto;
-
     }
     p {
         font-size: 1.2em;
@@ -275,7 +271,6 @@ article h4, p {
     .loisirs {
         display: initial;
         height: auto;
-
     }
     .loisirs div {
         flex-direction: row;
